@@ -1,0 +1,5 @@
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+F:\PRN_3wVNTT\GroupProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache

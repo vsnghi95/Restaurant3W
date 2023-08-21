@@ -1,0 +1,5 @@
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+F:\PRN_3wVNTT\GroupProject\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache

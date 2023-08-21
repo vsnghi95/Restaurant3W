@@ -1,0 +1,15 @@
+F:\PRN_3wVNTT\GroupProject\BussinessObject\bin\Debug\net5.0\BussinessObject.deps.json
+F:\PRN_3wVNTT\GroupProject\BussinessObject\bin\Debug\net5.0\BussinessObject.runtimeconfig.json
+F:\PRN_3wVNTT\GroupProject\BussinessObject\bin\Debug\net5.0\BussinessObject.runtimeconfig.dev.json
+F:\PRN_3wVNTT\GroupProject\BussinessObject\bin\Debug\net5.0\BussinessObject.dll
+F:\PRN_3wVNTT\GroupProject\BussinessObject\bin\Debug\net5.0\BussinessObject.pdb
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.AssemblyReference.cache
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfoInputs.cache
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfo.cs
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.CoreCompileInputs.cache
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.dll
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\ref\BussinessObject.dll
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.pdb
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\BussinessObject.genruntimeconfig.cache
+F:\PRN_3wVNTT\GroupProject\BussinessObject\obj\Debug\net5.0\refint\BussinessObject.dll
