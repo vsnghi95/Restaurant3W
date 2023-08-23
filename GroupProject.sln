@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessObject", "BussinessObject\BussinessObject.csproj", "{E0BFA8FC-F10A-4702-BE96-E4EB2845B5F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessObject", "BussinessObject\BussinessObject.csproj", "{E0BFA8FC-F10A-4702-BE96-E4EB2845B5F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcess", "DataAcess\DataAcess.csproj", "{ACCED4CC-0570-40CE-ADC9-F03AF977F746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAcess", "DataAcess\DataAcess.csproj", "{ACCED4CC-0570-40CE-ADC9-F03AF977F746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{9D99E8F4-C33A-4460-AA62-AD682EECB926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{9D99E8F4-C33A-4460-AA62-AD682EECB926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmManagement", "frmManagement\frmManagement.csproj", "{B87EC74D-56F9-43B2-8A52-26DBAB039217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frmManagement", "frmManagement\frmManagement.csproj", "{B87EC74D-56F9-43B2-8A52-26DBAB039217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessObject2", "BussinessObject2\BussinessObject2.csproj", "{67193E81-A000-49D7-880B-3248670531F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B87EC74D-56F9-43B2-8A52-26DBAB039217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B87EC74D-56F9-43B2-8A52-26DBAB039217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B87EC74D-56F9-43B2-8A52-26DBAB039217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67193E81-A000-49D7-880B-3248670531F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67193E81-A000-49D7-880B-3248670531F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67193E81-A000-49D7-880B-3248670531F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67193E81-A000-49D7-880B-3248670531F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

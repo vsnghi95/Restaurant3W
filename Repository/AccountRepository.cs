@@ -1,4 +1,4 @@
-﻿using BussinessObject;
+﻿using BussinessObject2;
 using DataAcess;
 using System;
 using System.Collections.Generic;
